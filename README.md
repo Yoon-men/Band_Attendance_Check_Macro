@@ -1,4 +1,3 @@
-# Attendance_Check_Macro
 # <프로그램 사용설명서> // Attendance_Check_Macro
 
 ▶ FAQ
