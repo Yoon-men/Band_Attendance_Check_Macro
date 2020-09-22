@@ -1,5 +1,5 @@
 # Attendance_Check_Macro
-<프로그램 사용설명서> // Attendance_Check_Macro_v1.0
+# <프로그램 사용설명서> // Attendance_Check_Macro
 
 ▶ FAQ
 Q1. 무슨 프로그램인가?
