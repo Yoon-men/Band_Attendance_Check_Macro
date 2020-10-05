@@ -75,7 +75,7 @@ class Ui_mainwindow(object):
         _translate = QtCore.QCoreApplication.translate
         mainwindow.setWindowTitle(_translate("mainwindow", "출석체크 매크로"))
         self.label.setText(_translate("mainwindow", "Auto Mouse Macro"))
-        self.label_2.setText(_translate("mainwindow", "Attendence Check"))
+        self.label_2.setText(_translate("mainwindow", "Attendance Check"))
         self.label_3.setText(_translate("mainwindow", "by. Yoonmen"))
         self.label_4.setText(_translate("mainwindow", "v1.0"))
         self.CheckButton.setText(_translate("mainwindow", "출석체크"))
