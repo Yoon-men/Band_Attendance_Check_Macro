@@ -136,7 +136,7 @@ class Ui_Form(object):
             self.listWidget.addItem('[system] 꼭 이런 빈칸만 있으면 \'sex\' 쳐보는\n            사람 있을 줄 알았다...')
 
         elif chrome_location == '윤태영' or facebook_ID == '윤태영' or facebook_PW == 'dbsxodud' : 
-            self.listWidget.addItem('[system] ㅊㅋ! 이스터에그를 발견하셨습니다!\n            문자 주면 선물을 드립니다.')
+            self.listWidget.addItem('[system] ㅊㅋ! 이스터에그를 발견하셨습니다!')
 
         elif chrome_location == '' or facebook_ID == '' or facebook_PW == '' : 
             self.listWidget.addItem('[system] 입력란을 모두 채워주세요.')
