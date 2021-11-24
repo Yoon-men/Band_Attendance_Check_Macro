@@ -1,4 +1,6 @@
 # Attendance_Check_Macro
+![image](https://user-images.githubusercontent.com/64591335/143252965-c4b48ebe-2ed0-40f9-9305-75ca934deb91.png)
+
 ---
 ## What the fuck is this?
 > 때는 강북 2년, 코로나19가 창궐하여 전 학교가 문을 닫고 온라인 수업이 시작되었던 때로 돌아간다.<br>
