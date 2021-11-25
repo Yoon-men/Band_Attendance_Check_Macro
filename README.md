@@ -13,7 +13,7 @@
 
 <br>
 
-## Download
+## EXE Download
 이 도구를 사용하려는 자는 아래 주소를 눌러 설치토록 하시오.
 > https://drive.google.com/drive/folders/1XE3UmoSpKzrPQwJySGAjAh2GcIVJRslw?usp=sharing (v2.0)
 <br>
