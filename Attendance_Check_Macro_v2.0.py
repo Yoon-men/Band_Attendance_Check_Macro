@@ -132,9 +132,6 @@ class Ui_Form(object):
 
         # ----------------------------------------------------------------------------------------------------
         '''이스터에그'''
-        if chrome_location == 'sex' or facebook_ID == 'sex' or facebook_PW == 'sex' : 
-            self.listWidget.addItem('[system] 꼭 이런 빈칸만 있으면 \'sex\' 쳐보는\n            사람 있을 줄 알았다...')
-
         elif chrome_location == '' or facebook_ID == '' or facebook_PW == '' : 
             self.listWidget.addItem('[system] 입력란을 모두 채워주세요.')
         # ----------------------------------------------------------------------------------------------------
