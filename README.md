@@ -1,5 +1,6 @@
 # Attendance_Check_Macro
-![image](https://user-images.githubusercontent.com/64591335/143252965-c4b48ebe-2ed0-40f9-9305-75ca934deb91.png)
+![python_lbXvMGvFMG](https://user-images.githubusercontent.com/64591335/144820973-30350099-d029-4406-af1c-af8f740d4cdb.png)
+
 
 ---
 ## What the fuck is this?
@@ -51,3 +52,6 @@
 
 ◇ 2021.11.23.화 12:18 // v2.0
 - 출석체크 방식의 변경(마우스 포인터 이동 → 셀레니움 사용)
+
+◇ 2021.12.6.월 18:02 // v2.1
+- 캡차 뚫기 기능 추가
