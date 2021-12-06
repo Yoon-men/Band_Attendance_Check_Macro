@@ -108,7 +108,7 @@ class Ui_Form(object):
     # ====================================================================================================
     def retranslateUi(self, Form):      # 매크로 프로그램 화면
         _translate = QtCore.QCoreApplication.translate
-        Form.setWindowTitle(_translate("Form", "Form"))
+        Form.setWindowTitle(_translate("Form", "밴드 출석체크 매크로"))
         self.CheckButton.setText(_translate("Form", "출석체크"))
         self.label_2.setText(_translate("Form", "Attendance Check"))
         self.label.setText(_translate("Form", "Auto Macro"))
