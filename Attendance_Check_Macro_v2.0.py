@@ -132,7 +132,7 @@ class Ui_Form(object):
 
         # ----------------------------------------------------------------------------------------------------
         '''이스터에그'''
-        elif chrome_location == '' or facebook_ID == '' or facebook_PW == '' : 
+        if chrome_location == '' or facebook_ID == '' or facebook_PW == '' : 
             self.listWidget.addItem('[system] 입력란을 모두 채워주세요.')
         # ----------------------------------------------------------------------------------------------------
 
