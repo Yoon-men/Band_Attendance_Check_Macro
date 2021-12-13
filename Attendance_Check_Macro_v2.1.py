@@ -10,7 +10,7 @@
 """
 <Attendance_Check_Macro_v2.1> - 21.12.6.월 18:02
 * Made by Yoonmen *
-[update] 캡차 뚫기 기능 추가
+[update] 캡차 해제 기능 추가
 """
 
 
