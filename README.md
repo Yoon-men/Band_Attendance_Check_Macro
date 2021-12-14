@@ -19,19 +19,17 @@
 > https://drive.google.com/drive/folders/1Ghf0nnF7R8rhbn7J2gxHUMwB6cU9JUFh?usp=sharing (v2.1)
 <br>
 
-## How To Use
+## How To Use (v2.1 기준)
 
 1. 바탕화면 → 마우스 우클릭 → 디스플레이 설정 → 전원 및 절전 설정 → 모든 선택 항목을 '없음'으로 변경하시오. (화면 꺼짐 방지)
 
 2. 다른 창 하나를 열어놓도록 하시오. 개인적으로 그냥 폴더 하나 더 띄워놓는거 추천함.
 
-3. 그대가 지닌 크롬이 위치한 장소를 입력토록 하시오. (예시 : C:\Program Files (x86)\Google\Chrome\Application\chrome.exe)
+3. 그대의 얼굴책 아이디를 입력토록 하시오.
 
-4. 그대의 얼굴책 아이디를 입력토록 하시오.
+4. 그대의 얼굴책 비밀번호를 입력토록 하시오.
 
-5. 그대의 얼굴책 비밀번호를 입력토록 하시오.
-
-6. 모두 입력했다면 START 버튼을 누르도록 하시오.
+5. 모두 입력했다면 START 버튼을 누르도록 하시오.
 
 <br>
 
